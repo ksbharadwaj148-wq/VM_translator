@@ -1,2 +1,2 @@
 # VM_translator
-Elements of Computing
+These will convert vm to hack assembly language
